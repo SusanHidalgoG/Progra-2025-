@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "Consulta";
+    Layout = "_Layout";
+}
+<section class="hero d-flex align-items-center" style="background-image: url('https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1350&q=80')">
+    <div class="container hero-content text-center">
+        <h1 class="display-4 fw-bold mb-4">Módulo de Consulta</h1>
+        <p class="lead">Búsqueda avanzada en tiempo real</p>
+    </div>
+</section>
+
+<section class="container my-5">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <div class="card shadow-lg border-0">
+                <div class="card-header bg-primary text-white">
+                    <h3 class="mb-0"><i class="fas fa-search me-2"></i>Filtros de Búsqueda</h3>
+                </div>
+                <div class="card-body">
+                    <form asp-action="Consulta" method="get">
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <label class="form-label">Nombre</label>
+                                <input type="text" class="form-control" name="nombre">
+                            </div>
+                            <div class="col-md-6">
+                                <label class="form-label">Fecha</label>
+                                <input type="date" class="form-control" name="fecha">
+                            </div>
+                        </div>
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end mt-4">
+                            <button type="reset" class="btn btn-outline-secondary me-md-2">
+                                <i class="fas fa-times me-1"></i> Limpiar
+                            </button>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-search me-1"></i> Buscar
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <div class="text-center mt-4">
+                <a asp-action="Index" class="btn btn-outline-dark">
+                    <i class="fas fa-arrow-left me-1"></i> Volver al Inicio
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
