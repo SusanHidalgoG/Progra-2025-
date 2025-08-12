@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\models\\abonorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\models\\abonorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\models\\comprapend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\models\\comprapend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -91,6 +103,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AbonoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\AbonoRequest.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Models\\AbonoRequest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\AbonoRequest.cs",
+              "RelativeToolTip": "Practica #3\\Models\\AbonoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:47:31.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CompraPend.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\CompraPend.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Models\\CompraPend.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\CompraPend.cs",
+              "RelativeToolTip": "Practica #3\\Models\\CompraPend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:47:10.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\Compra.cs",
+              "RelativeToolTip": "Practica #3\\Models\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:46:09.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\appsettings.json",
               "RelativeDocumentMoniker": "Practica #3\\appsettings.json",
@@ -103,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Program.cs",
               "RelativeDocumentMoniker": "Practica #3\\Program.cs",
@@ -115,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Practica #3\\Controllers\\HomeController.cs",
@@ -123,12 +174,11 @@
               "RelativeToolTip": "Practica #3\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T05:18:08.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-09T05:18:08.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Consulta.cshtml",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Home\\Consulta.cshtml",
               "RelativeDocumentMoniker": "Practica #3\\Views\\Home\\Consulta.cshtml",
@@ -140,7 +190,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Registro.cshtml",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Home\\Registro.cshtml",
               "RelativeDocumentMoniker": "Practica #3\\Views\\Home\\Registro.cshtml",
@@ -152,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Practica #3\\Views\\Shared\\_Layout.cshtml",
@@ -164,7 +214,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Practica #3\\wwwroot\\css\\site.css",
@@ -176,7 +226,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Practica #3\\Views\\Home\\Index.cshtml",
