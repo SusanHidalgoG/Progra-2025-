@@ -1,3 +1,5 @@
+using Practica3API.Repositories;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -7,19 +9,18 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddScoped<ICompraRepository, CompraRepository>();
+builder.Services.AddScoped<IAbonoRepository, AbonoRepository>();
+
+builder.Services.AddCors(opt => opt.AddDefaultPolicy(p =>
+    p.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod()));
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
+app.UseSwagger();
+app.UseSwaggerUI();
 
-app.UseHttpsRedirection();
-
-app.UseAuthorization();
-
+app.UseCors();
 app.MapControllers();
 
 app.Run();

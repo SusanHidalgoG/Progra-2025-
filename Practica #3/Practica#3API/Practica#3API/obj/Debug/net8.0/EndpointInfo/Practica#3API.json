@@ -5,7 +5,85 @@
     "version": "1.0"
   },
   "paths": {
-    "/api/Home/Regisyto": {
+    "/api/Abono": {
+      "post": {
+        "tags": [
+          "Abono"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AbonoRequest"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/AbonoRequest"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/AbonoRequest"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Compras": {
+      "get": {
+        "tags": [
+          "Compras"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Compras/pendientes": {
+      "get": {
+        "tags": [
+          "Compras"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Compras/{id}/saldo": {
+      "get": {
+        "tags": [
+          "Compras"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int64"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Home/Registro": {
       "post": {
         "tags": [
           "Home"
@@ -18,5 +96,27 @@
       }
     }
   },
-  "components": { }
+  "components": {
+    "schemas": {
+      "AbonoRequest": {
+        "required": [
+          "id_Compra",
+          "monto"
+        ],
+        "type": "object",
+        "properties": {
+          "id_Compra": {
+            "type": "integer",
+            "format": "int64"
+          },
+          "monto": {
+            "minimum": 0,01,
+            "type": "number",
+            "format": "double"
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
 }
