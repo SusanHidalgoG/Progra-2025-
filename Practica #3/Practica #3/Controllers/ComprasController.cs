@@ -1,4 +1,4 @@
-﻿using Practica__3.Services;
+﻿using System.Net.Http.Json;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Practica__3.Models;
@@ -8,15 +8,7 @@ namespace Practica__3.Controllers
     public class ComprasController : Controller
     {
         private readonly IHttpClientFactory _http;
-        private readonly IUtilitarios _util;
-
-        public ComprasController(IHttpClientFactory http, IUtilitarios util)
-        {
-            _http = http;
-            _util = util;
-        }
-
-      
+        public ComprasController(IHttpClientFactory http) => _http = http;
 
         public async Task<IActionResult> Consulta()
         {
@@ -28,7 +20,8 @@ namespace Practica__3.Controllers
             }
             catch (Exception ex)
             {
-                return Content("Fallo llamando al API: " + ex.Message);
+                TempData["Error"] = "No se pudo conectar con el API: " + ex.Message;
+                return View(Enumerable.Empty<Compra>());
             }
         }
     }

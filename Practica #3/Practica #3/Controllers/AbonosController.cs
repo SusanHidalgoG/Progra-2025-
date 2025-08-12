@@ -1,7 +1,7 @@
-﻿
-using Practica__3.Services;
+﻿using System.Net.Http.Json;
 using Microsoft.AspNetCore.Mvc;
 using Practica__3.Models;
+using Practica__3.Services;
 
 namespace Practica__3.Controllers
 {
@@ -16,40 +16,70 @@ namespace Practica__3.Controllers
             _util = util;
         }
 
+        // GET: /Abonos/Registro
         [HttpGet]
         public async Task<IActionResult> Registro()
         {
             var api = _http.CreateClient("Api");
-            var pendientes = await api.GetFromJsonAsync<IEnumerable<CompraPend>>("api/compras/pendientes");
-            return View(pendientes ?? Enumerable.Empty<CompraPend>());
-        }
+            IEnumerable<CompraPend> pendientes = Enumerable.Empty<CompraPend>();
 
-        [HttpPost]
-        public async Task<IActionResult> Registro(AbonoRegistro vm)
-        {
-            if (!ModelState.IsValid) return await Registro();
-
-            long idCompra;
             try
             {
-                idCompra = long.Parse(_util.Decrypt(vm.IdCompraEnc));
+                pendientes = await api.GetFromJsonAsync<IEnumerable<CompraPend>>("api/compras/pendientes")
+                             ?? Enumerable.Empty<CompraPend>();
             }
             catch
             {
-                TempData["Error"] = "Identificador inválido.";
-                return await Registro();
+                TempData["Error"] = "No se pudo cargar el listado de compras pendientes. ¿Está corriendo el API?";
             }
 
-            var api = _http.CreateClient("Api");
-            var payload = new AbonoRequest { Id_Compra = idCompra, Monto = vm.Monto };
-            var resp = await api.PostAsJsonAsync("api/abonos", payload);
+            return View(pendientes);
+        }
 
-            if (resp.IsSuccessStatusCode)
-                return RedirectToAction("Consulta", "Compras");
+        [HttpPost]
+        public async Task<IActionResult> Registro(AbonoRequest model)
+        {
+    
+            if (model == null || model.Id_Compra <= 0 || model.Monto <= 0)
+            {
+                ViewBag.Error = "Complete los datos del abono.";
+                var api0 = _http.CreateClient("Api");
+                var pend0 = await api0.GetFromJsonAsync<IEnumerable<CompraPend>>("api/compras/pendientes")
+                           ?? Enumerable.Empty<CompraPend>();
+                ViewBag.SelId = model?.Id_Compra;
+                ViewBag.Monto = model?.Monto;
+                return View(pend0); 
+            }
 
-            var err = await resp.Content.ReadAsStringAsync();
-            TempData["Error"] = !string.IsNullOrWhiteSpace(err) ? err : "Error al registrar el abono.";
-            return await Registro();
+            try
+            {
+                var api = _http.CreateClient("Api");
+                var resp = await api.PostAsJsonAsync("api/Abono", model);
+
+                if (resp.IsSuccessStatusCode)
+                    return RedirectToAction("Consulta", "Compras");
+
+                var body = await resp.Content.ReadAsStringAsync();
+                ViewBag.Error = string.IsNullOrWhiteSpace(body)
+                    ? $"Error al registrar el abono (código {(int)resp.StatusCode})."
+                    : body;
+
+                var pend = await api.GetFromJsonAsync<IEnumerable<CompraPend>>("api/compras/pendientes")
+                           ?? Enumerable.Empty<CompraPend>();
+                ViewBag.SelId = model.Id_Compra;
+                ViewBag.Monto = model.Monto;
+                return View(pend);
+            }
+            catch (Exception ex)
+            {
+                ViewBag.Error = "Excepción en POST /Abonos/Registro: " + ex.Message;
+                var api = _http.CreateClient("Api");
+                var pend = await api.GetFromJsonAsync<IEnumerable<CompraPend>>("api/compras/pendientes")
+                           ?? Enumerable.Empty<CompraPend>();
+                ViewBag.SelId = model.Id_Compra;
+                ViewBag.Monto = model.Monto;
+                return View(pend); 
+            }
         }
 
         [HttpGet]

@@ -3,28 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\views\\compras\\consulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\views\\compras\\consulta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\views\\abonos\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\views\\abonos\\registro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\services\\utilitarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\services\\utilitarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\services\\iutilitarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\services\\iutilitarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\models\\comprapend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\models\\comprapend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\models\\compra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\models\\abonorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\models\\abonorequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\models\\abonoregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\models\\abonoregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica #3\\controllers\\abonoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346EFC7F-8147-4A3A-A463-3D5646B38A2D}|Practica #3\\Practica #3.csproj|solutionrelative:practica #3\\controllers\\abonoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,80 +110,171 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Practica #3\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "Practica #3\\Views\\Shared\\_Layout.cshtml*",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFYAAABoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T19:53:22.884Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Practica #3\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Practica #3\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-12T19:48:56.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ComprasController.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Controllers\\ComprasController.cs",
-              "RelativeDocumentMoniker": "Practica #3\\Controllers\\ComprasController.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Controllers\\ComprasController.cs",
-              "RelativeToolTip": "Practica #3\\Controllers\\ComprasController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T19:34:42.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\appsettings.json",
-              "RelativeDocumentMoniker": "Practica #3\\appsettings.json",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\appsettings.json",
-              "RelativeToolTip": "Practica #3\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-12T19:25:52.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Program.cs",
-              "RelativeDocumentMoniker": "Practica #3\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Program.cs",
-              "RelativeToolTip": "Practica #3\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Title": "IUtilitarios.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Services\\IUtilitarios.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Services\\IUtilitarios.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Services\\IUtilitarios.cs",
+              "RelativeToolTip": "Practica #3\\Services\\IUtilitarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T19:25:51.644Z",
+              "WhenOpened": "2025-08-12T20:44:49.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Practica #3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:44:46.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registro.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Abonos\\Registro.cshtml",
+              "RelativeDocumentMoniker": "Practica #3\\Views\\Abonos\\Registro.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Abonos\\Registro.cshtml",
+              "RelativeToolTip": "Practica #3\\Views\\Abonos\\Registro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T20:27:37.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consulta.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Compras\\Consulta.cshtml",
+              "RelativeDocumentMoniker": "Practica #3\\Views\\Compras\\Consulta.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Compras\\Consulta.cshtml",
+              "RelativeToolTip": "Practica #3\\Views\\Compras\\Consulta.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T20:23:10.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilitarios.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Services\\Utilitarios.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Services\\Utilitarios.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Services\\Utilitarios.cs",
+              "RelativeToolTip": "Practica #3\\Services\\Utilitarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:44:50.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Practica #3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Practica #3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-12T20:45:04.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CompraPend.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\CompraPend.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Models\\CompraPend.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\CompraPend.cs",
+              "RelativeToolTip": "Practica #3\\Models\\CompraPend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:44:45.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\Compra.cs",
+              "RelativeToolTip": "Practica #3\\Models\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:44:45.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AbonoRequest.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\AbonoRequest.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Models\\AbonoRequest.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\AbonoRequest.cs",
+              "RelativeToolTip": "Practica #3\\Models\\AbonoRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:44:43.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AbonoRegistro.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\AbonoRegistro.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Models\\AbonoRegistro.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Models\\AbonoRegistro.cs",
+              "RelativeToolTip": "Practica #3\\Models\\AbonoRegistro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:44:42.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Practica #3\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Practica #3\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-09T05:18:08.115Z",
+              "WhenOpened": "2025-08-12T20:44:37.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AbonosController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Controllers\\AbonosController.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Controllers\\AbonosController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Controllers\\AbonosController.cs",
+              "RelativeToolTip": "Practica #3\\Controllers\\AbonosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:26:30.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Controllers\\ComprasController.cs",
+              "RelativeDocumentMoniker": "Practica #3\\Controllers\\ComprasController.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica #3\\Controllers\\ComprasController.cs",
+              "RelativeToolTip": "Practica #3\\Controllers\\ComprasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T20:19:46.264Z",
               "EditorCaption": ""
             }
           ]

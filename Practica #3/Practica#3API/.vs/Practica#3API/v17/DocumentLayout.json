@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica#3api\\practica#3api\\repositories\\icomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|solutionrelative:practica#3api\\repositories\\icomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica#3api\\practica#3api\\repositories\\iabonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|solutionrelative:practica#3api\\repositories\\iabonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica#3api\\practica#3api\\repositories\\comprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|solutionrelative:practica#3api\\repositories\\comprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,6 +33,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica#3api\\practica#3api\\controllers\\abonocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|solutionrelative:practica#3api\\controllers\\abonocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica#3api\\practica#3api\\repositories\\icomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|solutionrelative:practica#3api\\repositories\\icomprarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica#3api\\practica#3api\\repositories\\iabonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|solutionrelative:practica#3api\\repositories\\iabonorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7F134C0-2CA2-499F-8076-665CF0993659}|Practica#3API\\Practica#3API.csproj|c:\\users\\usuario\\desktop\\progra_avanzada_web\\progra-2025-\\practica #3\\practica#3api\\practica#3api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -111,6 +111,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Compra.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Models\\Compra.cs",
+              "RelativeDocumentMoniker": "Practica#3API\\Models\\Compra.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Models\\Compra.cs",
+              "RelativeToolTip": "Practica#3API\\Models\\Compra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:41:52.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompraPend.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Models\\CompraPend.cs",
+              "RelativeDocumentMoniker": "Practica#3API\\Models\\CompraPend.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Models\\CompraPend.cs",
+              "RelativeToolTip": "Practica#3API\\Models\\CompraPend.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:43:58.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "AbonoRepository.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Repositories\\AbonoRepository.cs",
               "RelativeDocumentMoniker": "Practica#3API\\Repositories\\AbonoRepository.cs",
@@ -118,12 +142,11 @@
               "RelativeToolTip": "Practica#3API\\Repositories\\AbonoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T01:02:13.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T01:02:13.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CompraRepository.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Repositories\\CompraRepository.cs",
               "RelativeDocumentMoniker": "Practica#3API\\Repositories\\CompraRepository.cs",
@@ -136,59 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAbonoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Repositories\\IAbonoRepository.cs",
-              "RelativeDocumentMoniker": "Practica#3API\\Repositories\\IAbonoRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Repositories\\IAbonoRepository.cs",
-              "RelativeToolTip": "Practica#3API\\Repositories\\IAbonoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T00:58:47.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ICompraRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Repositories\\ICompraRepository.cs",
-              "RelativeDocumentMoniker": "Practica#3API\\Repositories\\ICompraRepository.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Repositories\\ICompraRepository.cs",
-              "RelativeToolTip": "Practica#3API\\Repositories\\ICompraRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T00:57:38.473Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CompraPend.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Models\\CompraPend.cs",
-              "RelativeDocumentMoniker": "Practica#3API\\Models\\CompraPend.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Models\\CompraPend.cs",
-              "RelativeToolTip": "Practica#3API\\Models\\CompraPend.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T00:43:58.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Compra.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Models\\Compra.cs",
-              "RelativeDocumentMoniker": "Practica#3API\\Models\\Compra.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Models\\Compra.cs",
-              "RelativeToolTip": "Practica#3API\\Models\\Compra.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T00:41:52.774Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "AbonoRequest.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Models\\AbonoRequest.cs",
               "RelativeDocumentMoniker": "Practica#3API\\Models\\AbonoRequest.cs",
@@ -196,12 +167,11 @@
               "RelativeToolTip": "Practica#3API\\Models\\AbonoRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T00:44:43.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T00:44:43.591Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Practica#3API\\Controllers\\HomeController.cs",
@@ -209,12 +179,11 @@
               "RelativeToolTip": "Practica#3API\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-11T23:12:40.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-11T23:12:40.635Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "ComprasController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Controllers\\ComprasController.cs",
               "RelativeDocumentMoniker": "Practica#3API\\Controllers\\ComprasController.cs",
@@ -222,21 +191,43 @@
               "RelativeToolTip": "Practica#3API\\Controllers\\ComprasController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T18:12:06.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T18:12:06.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "AbonoController.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Controllers\\AbonoController.cs",
               "RelativeDocumentMoniker": "Practica#3API\\Controllers\\AbonoController.cs",
               "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Controllers\\AbonoController.cs",
               "RelativeToolTip": "Practica#3API\\Controllers\\AbonoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T18:14:30.016Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T18:14:30.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICompraRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Repositories\\ICompraRepository.cs",
+              "RelativeDocumentMoniker": "Practica#3API\\Repositories\\ICompraRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Repositories\\ICompraRepository.cs",
+              "RelativeToolTip": "Practica#3API\\Repositories\\ICompraRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:57:38.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAbonoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Repositories\\IAbonoRepository.cs",
+              "RelativeDocumentMoniker": "Practica#3API\\Repositories\\IAbonoRepository.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\Desktop\\Progra_Avanzada_Web\\Progra-2025-\\Practica #3\\Practica#3API\\Practica#3API\\Repositories\\IAbonoRepository.cs",
+              "RelativeToolTip": "Practica#3API\\Repositories\\IAbonoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T00:58:47.623Z"
             },
             {
               "$type": "Document",
@@ -248,8 +239,7 @@
               "RelativeToolTip": "Practica#3API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-12T00:20:29.864Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T00:20:29.864Z"
             },
             {
               "$type": "Document",
@@ -261,8 +251,7 @@
               "RelativeToolTip": "Practica#3API\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T18:15:55.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-12T18:15:55.82Z"
             },
             {
               "$type": "Document",
