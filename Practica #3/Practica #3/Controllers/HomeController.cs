@@ -6,11 +6,12 @@ namespace Practica__3.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
+        private readonly IConfiguration _configuration;
+        private readonly IHttpClientFactory _http;
+        public HomeController(IConfiguration configuration, IHttpClientFactory http)
         {
-            _logger = logger;
+            _configuration = configuration;
+            _http = http;
         }
 
         public IActionResult Index()

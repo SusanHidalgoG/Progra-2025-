@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Practica_3API.Controllers.HomeController",
+    "Method": "Registro",
+    "RelativePath": "api/Home/Regisyto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
